@@ -45,7 +45,7 @@ Especializado en **Backend Development** e **integración de servicios de Inteli
 
 - 🔧 **Git & GitHub**: control de versiones y trabajo colaborativo.
 - 🤝 **Metodologías Ágiles**: Scrum.
-- 🤖 **IA**: Consumo e integración de APIs REST (IA generativa, automatización).
+- 🤖 **API REST**: integración de APIs REST.
 - 🔐 **Seguridad**: Autenticación y autorización con JWT y roles.
 
 ---
