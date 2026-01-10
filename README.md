@@ -2,7 +2,7 @@
 ### 💻 GitHub: **MarkClap**
 
 Desarrollador de Software enfocado en crear soluciones **eficientes, escalables y mantenibles**.  
-Especializado en **Backend Development** e **integración de servicios de Inteligencia Artificial** para la automatización y optimización de procesos.
+Especializado en **Backend Development**.
 
 ---
 
