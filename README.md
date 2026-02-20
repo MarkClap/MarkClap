@@ -1,5 +1,4 @@
 # 👋 Hola, soy **Deivid Laura Garamendi** 🚀
-### 💻 GitHub: **MarkClap**
 
 Desarrollador de Software enfocado en crear soluciones **eficientes, escalables y mantenibles**.  
 Especializado en **Backend Development**.
